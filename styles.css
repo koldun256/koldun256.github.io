@@ -53,7 +53,7 @@ body {
   width: 6.75rem;
   height: 2.3125rem;
   margin-right: 3.25rem;
-  background: no-repeat 50% 50% url(assets/sprite.svg#logo);
+  background: no-repeat 50% 50% url(assets/logo.svg);
   background-size: contain;
 }
 
